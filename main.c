@@ -1,6 +1,6 @@
-#include <stdio.h>
-
+#include<stdio.h>
 int main() {
-    printf("Hello world!\n");
-    return 0;
+puts("Hello world");
+puts("Second commit, example");
+return 0;
 }
